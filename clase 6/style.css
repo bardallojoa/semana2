@@ -1,0 +1,48 @@
+/*Horarios de atencio*/
+.dias {
+    font-size: 1.5em;
+    color: cornflowerblue;text-align: center;
+}
+.dias-th {
+    font-size: 2em;
+    color: black;
+}
+.horarios {
+    color: cornflowerblue;text-align: center;
+}
+.horarios-th {
+    font-size: 2em;
+    color: black;
+}
+    /*header*/
+.header {
+    background-color: lightseagreen;
+    width: 100%;   
+    height: 30%;
+    text-align: center;
+}
+    /*footer*/
+.footer {
+    background-color: hotpink;
+    width: 100%;   
+    height: 15%;
+    margin-top: 1em;
+    text-align: center;
+}
+    /*formulario*/
+.form {
+    border-color: blue;
+    border-style: ridge;
+
+}
+    /*lista-navegador*/
+.navegador {
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    text-align: center;
+    font-size: 2em;
+    justify-content: space-around;
+    
+
+}
